@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #EFFAFE;
+}
+
+.présentation h2{
+    font-size: 30px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.présentation {
+    text-align: center;
+    background-color: #FFFFFF;
+    width: 50%;
+    padding: 2%;
+    margin-left: 22%;
+    border-radius: 10px;
+    margin-top: 5%;
+}
+
+.couleur-lettre {
+    color: #F90A0A;
+}
+
+.info {
+    background-color: #FFFFFF;
+    width: 70%;
+    margin-left: 14%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 5px;
+}
+
+h3 {
+    margin-left: 12%;
+}
+
+.titre-info {
+    margin-top: 5%;
+}
+
+.bulle-info {
+    display: flex;
+}
+
+.image-info {
+    margin-left: 8%;
+}
+
+.bulle-texte {
+    flex-direction: column;
+    margin-left: 5%;
+}
+
+.fin-info {
+    margin-left: 10%;
+}

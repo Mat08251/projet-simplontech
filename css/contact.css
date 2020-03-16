@@ -1,0 +1,72 @@
+body {
+    background-color: #EFFAFE;
+}
+.texte-contact {
+    text-align: center;
+    margin-top: 4%;
+}
+
+.info-contact {
+    margin-left: 30%;
+    margin-bottom: 2%;
+}
+
+.formulaire {
+    background-color: #7DD0FF;
+    padding: 1%;
+    width: 40%;
+    margin-left: 29%;
+}
+
+.titre-formulaire {
+    text-align: center;
+    font-weight: normal;
+}
+
+.formu {
+    margin-left: 12%;
+}
+
+#name {
+    margin-bottom: 2%;
+    padding: 1%;
+    margin-right: 10%;
+    margin-top: 5%;
+    border: none;
+    width: 18%;
+}
+
+#lastname {
+    padding: 1%;
+    border: none;
+    width: 18%;
+}
+
+#email {
+    margin-bottom: 3%;
+    padding: 1%;
+    border: none;
+    width: 36%;
+}
+
+#msg {
+    border: none;
+    margin-bottom: 1%;
+}
+
+.btn-envoyer {
+    padding: 1%;
+    font-weight: bold;
+    border: none;
+}
+
+.titre-carte {
+    text-align: center;
+    font-weight: normal;
+    margin-bottom: 5%;
+}
+
+.carte-google {
+    text-align: center;
+    margin-bottom: 5%;
+}

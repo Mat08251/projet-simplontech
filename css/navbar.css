@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    display: flex;
+    background-color: #7DD0FF;
+}
+
+#logo {
+    margin-top: 0.3%;
+    margin-left: 5%;
+}
+
+
+
+.bouton, .bouton1 {
+    background-color: #F90A0A;
+    margin-top: 13%;
+    padding: 10px;
+    border: 1px solid black;
+    box-shadow: -1px -1px black;
+    color: #fff;
+    font-weight: bold;
+}
+
+.bouton1 {
+    width: 250%;
+}
+
+.bouton {
+    width: 150%;
+}
+
+
+
+.nav {
+    margin-left: 10%;
+    margin-top: 2.26%;
+}
+
+.nav2 {
+    margin-left: 30%;
+    margin-top: 1.96%;
+    margin-right: 4%;
+}
+
+.nav3 {
+    margin-right: 18%;
+    margin-top: 1.9%;
+}
+
+.icon {
+    margin-top: 1%;
+    display: flex;
+}
+
+.login {
+    flex-direction: column;
+    color: #fff;
+}
+
+.shop {
+    color: #fff;
+}
+
+.user {
+   text-align: center;
+}
+
+.shop {
+    margin-left: 20%;
+    text-align: center;
+}
+
+
+
+
+
+

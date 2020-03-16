@@ -1,0 +1,69 @@
+.footer1 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color: #FFFFFF;
+}
+
+.part {
+   text-align: center;
+   margin-left: 14%;
+}
+
+.part-logo {
+    margin-right: 28%;
+}
+
+.social {
+    text-align: center;
+    margin-left: 22%;
+}
+
+.fab {
+    margin-top: 20%;
+}
+
+.part-image {
+    display: flex;
+}
+
+.twitter {
+    margin-right: 10%;
+}
+
+.facebook {
+    margin-right: 10%;
+}
+
+.contacte {
+    text-align: center;
+    margin-left: 20%;
+}
+
+.btn-contact {
+    width: 110%;
+    padding: 4%;
+    background-color: rgb(51, 146, 201);
+    border: 1px solid black;
+    box-shadow: -1px -1px black;
+    color: #FFF;
+    margin-top: 22%;
+    margin-left: 60%;
+}
+
+.numero {
+    flex-direction: column;
+    padding: 0;
+}
+
+
+.contact-info {
+    display: flex;
+}
+
+.footer2 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #B8DDFF;
+}
