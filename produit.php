@@ -9,9 +9,10 @@
         <script src="https://kit.fontawesome.com/7d77d119e1.js" crossorigin="anonymous"></script>
     </head>
     <body>
+        <!--navbar-->
         <?php include("navbar.php"); ?>
 
-        <article>
+        <article><!--caractériqtiques du produit-->
            <div class="caracteristique">
               <div class="image-produit">
                  <img src="images/Tour.jpg" alt="photo-produit" width="550" height="550">
@@ -29,9 +30,9 @@
                     </p>
               </div>
            </div>
-        </article>
+        </article><!-- fin caractéristiques du produit-->
 
-        <section>
+        <section><!--descriptif du produit-->>
           <div class="descriptif">
               <div class="titre-descriptif">
                 <h3>Descriptif du Intel Core i7 9700K Hunter</h3>
@@ -61,7 +62,8 @@
                 </p>
               </div>
           <div>
-        </section>
+        </section><!--fin descriptif du produit-->
+        <!--footer-->
         <?php include("footer.php"); ?>
         
     </body>

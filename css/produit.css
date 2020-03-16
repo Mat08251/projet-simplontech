@@ -2,6 +2,7 @@ body {
     background-color: #EFFAFE;
 }
 
+/*partie caractéristique du produit*/
 .caracteristique{
     display: flex;
     text-align: center;
@@ -29,6 +30,7 @@ body {
     
 }
 
+/*partie descriptif du produit*/
 .descriptif {
     background-color: #FFFFFF;
     width: 40%;

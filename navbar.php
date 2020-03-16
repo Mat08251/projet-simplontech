@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="css/navbar.css">
 <nav class="navbar">
-  <div id="logo"><img src="images/logo_simplonco.png" alt="logo-navbar" height="70" width="80"></div>
+  <div id="logo"><img src="images/logo_simplonco.png" alt="logo-navbar" height="70" width="80"></div><!--logo navbar-->
       <div class="nav">
         <a href="index.php"><input class="bouton1" type="button" value="Home"></a>
       </div>

@@ -3,7 +3,7 @@ body {
     padding: 0;
     background-color: #EFFAFE;
 }
-
+/*partie texte d'acceuil*/
 .présentation h2{
     font-size: 30px;
     margin-bottom: 0;
@@ -19,11 +19,13 @@ body {
     border-radius: 10px;
     margin-top: 5%;
 }
-
+/*lettre couleur rouge du texte d'acceuil*/
 .couleur-lettre {
     color: #F90A0A;
 }
+/*fin partie texte d'acceuil*/
 
+/*partie présentation de l'entreprise*/
 .info {
     background-color: #FFFFFF;
     width: 70%;
@@ -57,3 +59,4 @@ h3 {
 .fin-info {
     margin-left: 10%;
 }
+/*fin partie présentation de l'entreprise*/

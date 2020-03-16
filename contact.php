@@ -9,9 +9,10 @@
         <script src="https://kit.fontawesome.com/7d77d119e1.js" crossorigin="anonymous"></script>
     </head>
     <body>
+       <!--navbar-->
         <?php include("navbar.php"); ?>
 
-        <section>
+        <section><!--info contact-->
            <div class="texte-contact">
               <p>Une question sur un produit</br>
                  ou une gamme en particulier?</br>
@@ -26,8 +27,8 @@
               <p>03.24.42.86.94</p>
               <p>simplon-tech@.fr</p>
            </div>
-        </section>
-        <div class="formulaire">
+        </section><!--fin info contacte-->
+        <div class="formulaire"><!--formulaire-->
         <h2 class="titre-formulaire">Formulaire de contact</h2>
          <form action="" method="" class="formu">
             <div>
@@ -44,14 +45,16 @@
                <button class="btn-envoyer" type="submit">Envoyer</button>
             </div>
          </form>
-         </div>
-
+         </div><!--fin du formulaire-->
+        
+        <!--google map-->
         <h2 class="titre-carte">Ou nous trouver</h2>
 
         <!--iframe-->
         <div class="carte-google">
             <iframe src="https://www.google.com/maps/d/embed?mid=1dnM3s_QbcFHNeq6fy19mKW-Ji56bnW1q" width="640" height="480"></iframe>
         </div>
+        <!--footer-->
         <?php include("footer.php"); ?>
         
     </body>

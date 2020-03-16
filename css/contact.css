@@ -1,6 +1,8 @@
 body {
     background-color: #EFFAFE;
 }
+
+/*partie information haut de page*/
 .texte-contact {
     text-align: center;
     margin-top: 4%;
@@ -11,6 +13,7 @@ body {
     margin-bottom: 2%;
 }
 
+/*formulaire*/
 .formulaire {
     background-color: #7DD0FF;
     padding: 1%;
@@ -60,6 +63,7 @@ body {
     border: none;
 }
 
+/*google map*/
 .titre-carte {
     text-align: center;
     font-weight: normal;

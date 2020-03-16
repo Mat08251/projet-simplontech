@@ -2,6 +2,7 @@ body {
     background-color: #EFFAFE;
 }
 
+/*partie cards gallerie*/
 .container {
     display: flex;
     text-align: center;
@@ -13,18 +14,21 @@ body {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
+/*card milieu de page*/
 .container2 {
     display: flex;
     text-align: center;
     margin-left: 1%;
 }
 
+/*card fin de page*/
 .container3 {
     display: flex;
     text-align: center;
     margin-left: 1%;
 }
 
+/*bouton des cards*/
 .btn-produit {
     width: 14%;
     margin-left: 5%;
@@ -39,11 +43,12 @@ body {
     padding-bottom: 2%;
 }
 
+/*fond des cards*/
 .produit1, .produit2, .produit3, .produit4, .produit5, .produit6 {
     background-color: #B8DDFF;
     border-radius: 18px;
 }
-
+ /*taille des cards*/
 .produit1, .produit3, .produit5 {
     width: 80%;
     margin-left: 10%;
@@ -58,6 +63,7 @@ body {
     height: 27%;
 }
 
+/*bouton des cards*/
 .bouton-lien {
     border-radius: 5px;
     background-color: #F90A0A;

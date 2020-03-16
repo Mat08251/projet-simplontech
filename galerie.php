@@ -13,12 +13,15 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript" type="text/javascript"></script>
     </head>
     <body>
+        <!--navbar-->
         <?php include("navbar.php"); ?>
-
+        
+        <!--photo vitrine galerie-->
         <div class="">
             <img src="" alt="">
         </div>
 
+        <!--container des cards de la galerie photo-->
         <div class="container">
            <div class="card">
               <a href="images/pc-port.jpg" rel="prettyPhoto[gallery1">
@@ -135,8 +138,11 @@
                  </div>
            </div>
         </div>
+        <!--fin du container des cards de la gallerie photo-->
 
+        <!--footer-->
         <?php include("footer.php"); ?>
+        <!--script jquery et addon prettyphoto-->
         <script src="jquery-3.4.1.min.js"></script>
         <script type="text/javascript" charset="utf-8">
                $(document).ready(function(){

@@ -33,6 +33,7 @@
         <script src="https://kit.fontawesome.com/7d77d119e1.js" crossorigin="anonymous"></script>
     </head>
     <body>
+        <!--navbar-->
         <?php include("navbar.php"); ?>
 
         <!--slide-->
@@ -73,6 +74,7 @@
             </div><!-- END SLIDER CONTAINER -->
  
         </div>
+        <!--texte d'acceuil-->
         <div class="présentation">
           <p><h2>Bienvenue sur Simpl<span class="couleur-lettre">o</span>n.Te<span class="couleur-lettre">c</span>h</h2></br>
                  Ici vous trouverez tous se que vous recherchez.</br>
@@ -80,6 +82,9 @@
                  pour votre machine, vous ne serez pas ou donnez de la tête
           </p>
         </div>
+        <!--fin du texte d'acceuil-->
+
+        <!--présentation de l'entreprise-->
         <div class="info">
           <div class="titre-info">
            <h3>Simplon.Tech est spécialisé dans la vente et le montage de pc.</h3>
@@ -103,6 +108,9 @@
                 destinations.
             </p>
         </div>
+        <!--fin de la présentation de l'entreprise-->
+
+        <!--footer-->
         <?php include("footer.php"); ?>
 
         <!-- Slider's main "init" script -->
