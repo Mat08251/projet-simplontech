@@ -66,6 +66,6 @@
         <!--footer-->
         <?php include("footer.php"); ?>
       <script src="https://unpkg.com/scrollreveal"></script>
-      <script src="produit.js"></script>
+      <script src="js/produit.js"></script>
     </body>
 </html>

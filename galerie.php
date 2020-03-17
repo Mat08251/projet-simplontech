@@ -150,6 +150,6 @@
                });
              </script>
        <script src="https://unpkg.com/scrollreveal"></script>
-       <script src="galerie.js"></script>
+       <script src="js/galerie.js"></script>
     </body>
 </html>

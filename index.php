@@ -154,7 +154,7 @@
         <!-- ***************** -->
         <!-- END SLIDER MARKUP -->
         <!-- ***************** -->
-      <script src="https://unpkg.com/scrollreveal"></script>
-      <script src="index.js"></script>
+        <script src="https://unpkg.com/scrollreveal"></script>
+        <script src="js/index.js"></script>
     </body>
 </html>

@@ -57,6 +57,6 @@
         <!--footer-->
         <?php include("footer.php"); ?>
       <script src="https://unpkg.com/scrollreveal"></script>
-      <script src="contact.js"></script>
+      <script src="js/contact.js"></script>
     </body>
 </html>
