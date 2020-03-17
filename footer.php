@@ -15,7 +15,7 @@
       <span class="insta"><i class="fab fa-instagram-square"></i></span>
     </div><!--fin partie sociaux-->
     <div class="contacte"><!--partie contacte-->
-      <p>Une équipe à votre écoute</p>
+      <p class="titre-contacte">Une équipe à votre écoute</p>
       <div class="contact-info">
         <div class="numero">
           <p>Qui somme nous?</br>

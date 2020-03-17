@@ -149,6 +149,7 @@
                  $("a[rel^='prettyPhoto']").prettyPhoto();
                });
              </script>
-             </body>
+       <script src="https://unpkg.com/scrollreveal"></script>
+       <script src="galerie.js"></script>
     </body>
 </html>

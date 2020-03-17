@@ -31,10 +31,14 @@
 .social {
     text-align: center;
     margin-left: 22%;
+    width: 6%;
 }
+
+
 
 .fab {
     margin-top: 20%;
+   
 }
 
 .part-image {
@@ -43,10 +47,20 @@
 
 .twitter {
     margin-right: 10%;
+    color: rgb(48, 187, 221);
+    font-size: 30px;
 }
 
 .facebook {
     margin-right: 10%;
+    color: rgb(18, 50, 153);
+    font-size: 30px;
+}
+
+.insta {
+    color:rgb(107, 0, 89);
+    font-size: 30px;
+   
 }
 
 /*partie contacte*/
@@ -54,6 +68,11 @@
     text-align: center;
     margin-left: 20%;
 }
+
+.titre-contacte{
+    margin-left: %;
+}
+
 
 .btn-contact {
     width: 110%;

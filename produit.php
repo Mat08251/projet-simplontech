@@ -32,7 +32,7 @@
            </div>
         </article><!-- fin caractéristiques du produit-->
 
-        <section><!--descriptif du produit-->>
+        <section><!--descriptif du produit-->
           <div class="descriptif">
               <div class="titre-descriptif">
                 <h3>Descriptif du Intel Core i7 9700K Hunter</h3>
@@ -65,6 +65,7 @@
         </section><!--fin descriptif du produit-->
         <!--footer-->
         <?php include("footer.php"); ?>
-        
+      <script src="https://unpkg.com/scrollreveal"></script>
+      <script src="produit.js"></script>
     </body>
 </html>
