@@ -12,7 +12,7 @@
 }
 
 body {
-    background-color: #EFFAFE;
+    background-color: rgb(213, 244, 255);
 }
 
 /*partie information haut de page*/
@@ -82,7 +82,8 @@ body {
 .titre-carte {
     text-align: center;
     font-weight: normal;
-    margin-bottom: 5%;
+    margin-bottom: 3%;
+    margin-top: 5%;
 }
 
 .carte-google {

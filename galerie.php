@@ -17,8 +17,8 @@
         <?php include("navbar.php"); ?>
         
         <!--photo vitrine galerie-->
-        <div class="">
-            <img src="" alt="">
+        <div class="photo-entête">
+            <img src="images/image3.jpg" alt="photo-entête-gallerie">
         </div>
 
         <!--container des cards de la galerie photo-->

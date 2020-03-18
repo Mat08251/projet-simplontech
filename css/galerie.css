@@ -12,7 +12,11 @@
 }
 
 body {
-    background-color: #EFFAFE;
+    background-color: rgb(213, 244, 255);
+}
+
+.photo-entête{
+   margin-bottom: 5%;
 }
 
 /*partie cards gallerie*/

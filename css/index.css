@@ -14,7 +14,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #EFFAFE;
+    background-color: rgb(213, 244, 255);
 }
 /*partie texte d'acceuil*/
 .présentation h2{
