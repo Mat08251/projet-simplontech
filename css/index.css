@@ -77,3 +77,7 @@ h3 {
     font-family: 'advent_proregular', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 /*fin partie présentation de l'entreprise*/
+
+@media all and (max-device-width: 480px) {
+    
+}

@@ -60,3 +60,7 @@ body {
     margin-left: 6%;
     font-family: 'advent_proregular', Helvetica;
 }
+
+@media all and (max-device-width: 480px) {
+    
+}
