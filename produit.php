@@ -7,6 +7,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/produit.css">
         <script src="https://kit.fontawesome.com/7d77d119e1.js" crossorigin="anonymous"></script>
+        <script src="js/jquery-1.3.2.min.js" type="text/javascript"></script>
+        <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" />
+        <script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
     </head>
     <body>
         <!--navbar-->
@@ -16,6 +19,17 @@
            <div class="caracteristique">
               <div class="image-produit">
                  <img src="images/Tour.jpg" alt="photo-produit" width="550" height="550">
+                 <div class="miniature">
+                 <a href="images/Tour2.jpg" rel="prettyPhoto" title="" >  
+                   <img src="images/Tour2.jpg" width="80" height="80" alt="Intel Core i7" />
+                 </a> 
+                 <a href="images/Tour3.jpg" rel="prettyPhoto" title="" >  
+                   <img src="images/Tour3.jpg" width="80" height="80" alt="Intel Core i7" />
+                 </a> 
+                 <a href="images/Tour4.jpg" rel="prettyPhoto" title="" >  
+                   <img src="images/Tour4.jpg" width="80" height="80" alt="Intel Core i7" />
+                 </a> 
+                 </div> 
               </div>
               <div class="info-caracte">
                  <div class="titre-info-caracte">
@@ -50,5 +64,10 @@
         <?php include("footer.php"); ?>
       <script src="https://unpkg.com/scrollreveal"></script>
       <script src="js/produit.js"></script>
+      <script type="text/javascript" charset="utf-8">
+               $(document).ready(function(){
+                 $("a[rel^='prettyPhoto']").prettyPhoto();
+               });
+             </script>
     </body>
 </html>
