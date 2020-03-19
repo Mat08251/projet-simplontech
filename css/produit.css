@@ -25,6 +25,7 @@ body {
     margin-top: 5%;
 }
 
+
 .titre-info-caracte {
     margin-bottom: 30%;
     
@@ -59,6 +60,26 @@ body {
 .texte-descriptif {
     margin-left: 6%;
     font-family: 'advent_proregular', Helvetica;
+}
+
+@media all and (max-width: 768px) {
+    .image-produit {
+        margin-left: 4%;
+    }
+
+    .caracteristique {
+        flex-direction: column;
+    }
+
+    .info-caracte{
+        width: 48%;
+        margin-left: 26%;
+    }
+
+    .descriptif {
+        width: 60%;
+        margin-left: 20%;
+    }
 }
 
 @media all and (max-device-width: 480px) {

@@ -87,10 +87,35 @@ body {
 }
 
 .carte-google {
-    text-align: center;
-    margin-bottom: 5%;
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
 }
 
-@media all and (max-device-width: 480px) {
-    
+.carte-google iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    } 
+
+
+@media all and (max-width: 768px) {
+    .formulaire {
+        margin: auto;
+        width: 59%;
+    }
+}
+
+@media all and (max-width: 480px) and (max-width: 708px) {
+    .formulaire {
+        margin: auto;
+        width: 90%;
+    }
+
+    #msg {
+        columns: 5;
+    }
 }

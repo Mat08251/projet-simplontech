@@ -65,6 +65,8 @@ h3 {
 
 .image-info {
     margin-left: 8%;
+    background-image: url(../images/cartevitr.jpg);
+    width: 50%;
 }
 
 .bulle-texte {
@@ -78,6 +80,22 @@ h3 {
 }
 /*fin partie présentation de l'entreprise*/
 
-@media all and (max-device-width: 480px) {
-    
+@media all and (max-width: 768px) {
+    .image-info {
+        background-size: 200%;
+        width: 90%;
+        margin-top: 1%;
+        background-repeat: no-repeat;
+        background-position: 24% 48%;
+    }
+}
+
+@media all and (max-width: 480px) and (max-width: 708px) {
+    .présentation {
+        margin-left: 24%;
+    }
+
+    .image-info {
+        display: none;
+    }
 }

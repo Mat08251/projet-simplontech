@@ -17,6 +17,10 @@ body {
 
 .photo-entête{
    margin-bottom: 5%;
+   background-image: url(../images/image3.jpg);
+   height: 500px;
+   width: 100%;
+   background-repeat: no-repeat;
 }
 
 /*partie cards gallerie*/
@@ -94,6 +98,28 @@ body {
     font-weight: bold;
 }
 
-@media all and (max-device-width: 480px) {
-    
+.bouton-lien:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+@media all and (max-width: 768px) {
+    .photo-entête {
+        background-size: 770px;
+        margin-bottom: -16%;
+    }
+
+    .produit2, .produit4, .produit6 {
+        height: 60%;
+    }
+}
+
+@media all and (max-width: 480px) and (max-width: 708px) {
+    .photo-entête {
+        background-size: 550px;
+        margin-bottom: -50%;
+    }
+
+    .produit2, .produit4, .produit6 {
+        height: 76.5%;
+    }
 }

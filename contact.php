@@ -39,7 +39,7 @@
                <input type="email" id="email" name="user-email" placeholder="Email">
             </div>
             <div>
-               <textarea id="msg" name="user-message" rows="10" cols="80"></textarea>
+               <textarea id="msg" name="user-message" rows="10" cols="50"></textarea>
             </div>
             <div>
                <button class="btn-envoyer" type="submit">Envoyer</button>

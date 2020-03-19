@@ -18,7 +18,7 @@
         <article><!--caractériqtiques du produit-->
            <div class="caracteristique">
               <div class="image-produit">
-                 <img src="images/Tour.jpg" alt="photo-produit" width="550" height="550">
+                 <img src="images/Tour.jpg" alt="photo-produit" width="440" height="550">
                  <div class="miniature">
                  <a href="images/Tour2.jpg" rel="prettyPhoto" title="" >  
                    <img src="images/Tour2.jpg" width="80" height="80" alt="Intel Core i7" />

@@ -5,7 +5,7 @@
       <p>Nos Partenaires</p>
         <div class="part-image">
           <img class="part-logo" src="images/simplon.png" alt="logo-simplon" height="60" width="70">
-          <img src="images/grand_est_logo.png" alt="logo-grandest" height="50" width="150">
+          <img class="part-est" src="images/grand_est_logo.png" alt="logo-grandest" height="50" width="150">
        </div>
     </div><!--fin partie partenaire-->
     <div class="social"><!--partie sociaux-->

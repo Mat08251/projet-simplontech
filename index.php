@@ -90,7 +90,7 @@
            <h3>Simplon.Tech est spécialisé dans la vente et le montage de pc.</h3>
           </div>
               <div class="bulle-info">
-                 <img class="image-info" src="images/cartevitr.jpg" alt="photo-info">
+                 <div class="image-info"></div>
                    <div class="bulle-texte">
                       <p>Chosir un PC venddu et ou monté par Simplon.Tech c'est la garantie d'une</br>
                          main d'oeuvre de qualité ainsi que du matériel avec une longue durée de vie.
